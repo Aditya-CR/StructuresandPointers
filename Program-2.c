@@ -1,7 +1,7 @@
 // Program to add information of student and display marks
 
 //Input: 10 20 30
-//Output: 10 20 30
+ //Output: 10 20 30
 #include<stdio.h>  
 struct student  
 {  char name[10];
