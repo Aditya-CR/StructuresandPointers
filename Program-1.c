@@ -14,7 +14,6 @@ int main()
     // adding feet
     sum.feet = dist1.feet + dist2.feet;
     // adding inches
-
     printf("Sum of feet = %d",sum.feet);
     return 0;
 }
