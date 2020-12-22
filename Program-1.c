@@ -7,7 +7,6 @@ struct Distance
 {
     int feet;
 } dist1, dist2, sum;
-
 int main()
 {
     printf("Enter feet  value for 1st and 2nd distance: ");
