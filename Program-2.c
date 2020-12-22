@@ -4,8 +4,8 @@
  //Output: 10 20 30
 #include<stdio.h>  
 struct student  
-{  char name[10];
-    int id;
+{  //char name[10];
+    //int id;
     int marks;  
 };  
 int main()  
