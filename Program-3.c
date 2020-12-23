@@ -1,7 +1,7 @@
 // Program to add two numbers using structures
 
 //Input 10 20
-//Output Sum=30
+// Output Sum=30
 
 #include<stdio.h>
 struct sum
