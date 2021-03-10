@@ -14,8 +14,8 @@ int main()
     scanf("%d%d", &dist1.feet, &dist2.feet);
     // adding feet
     sum.feet = dist1.feet + dist2.feet;
-    // adding inches-Insert the missing code
+   
 
-    printf("Sum of feet = %d",sum.feet);
+    printf("Sum of feet = ",sum.feet);//Enter the missing code
     return 0;
 }
