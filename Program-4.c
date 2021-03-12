@@ -1,6 +1,6 @@
 //Program to find the average
 //Input : 10 20 30 
-   // Output :20
+   // Output :20.000000
 
 #include <stdio.h>
 struct math {
