@@ -1,5 +1,5 @@
 //Input : 23  34 
-//Output: Sum of distances = 57
+//Output: Sum of feet = 57
 
 //Program to add two distances (feet-inch)
 #include <stdio.h>
